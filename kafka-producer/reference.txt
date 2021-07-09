@@ -1,0 +1,16 @@
+http://localhost:8080/KafkaProducer/message/plain/{message}
+
+
+http://localhost:8080/KafkaProducer/message/event/email
+{
+    "from": "Shobhit",
+    "to": "Rajesh",
+    "message": "Hii ... Test Message"
+}
+
+
+http://localhost:8080/KafkaProducer/message/event/errorlog
+{
+    "errorCode": 101,
+    "errorMessage": "Some Error Occured"
+}

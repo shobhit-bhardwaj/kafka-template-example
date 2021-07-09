@@ -1,0 +1,1 @@
+{"TYPE": "EMAIL", "from": "Shobhit", "to": "Rajesh", "message": "Hiii ... This is Test Message"}
